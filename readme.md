@@ -23,16 +23,16 @@ this is the pipeline I used for preprocessing and building the dataset for segme
 
 after training the model I got these results 
 
-![res1](mkassets/pcb1.png )
+![res1](mkassets/pcb1.PNG )
 
-![res2](mkassets/pcb2.png )
+![res2](mkassets/pcb2.PNG )
 
 this is the training and validation loss curves
 
-![loss](mkassets/loss.png )
+![loss](mkassets/loss.PNG )
 
 ## Classification
 
 these were the plots for the classification results
 
-![train](mkassets/train.png)
+![train](mkassets/train.PNG)
